@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 11학번 정기모임
+**회장** 이누리  
+**총무** 남우현  
 
-[Link to another page](./another-page.html).
+**창립 회원**  
+강도영  
+권진환  
+김태영  
+조예지  
+진형민  
 
-There should be whitespace between paragraphs.
+**기타 회원**  
+박근우  
+김선아  
+김태현  
+김동광  
+주형준  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# 강령
+하나, 불참 회원은 회비를 돌려받을 수 없다.  
 
-# Header 1
+하나, 불참 회원이란, 공지된 장소에 나타나지 않거나 1시간 이하로 참석한 자를 말한다.  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+하나, 회원 가입 시 3만원을 납부한다.  
 
-## Header 2
+하나, 매 모임 이전에 3만원을 납부하지 않을 시, 참여가 불가능하다.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# 수정강령
+하나, 해석에 충돌이 있을 경우, 신법이 구법에 우선한다.  
 
-### Header 3
+하나, 납부한 회비는 현금의 형태로 돌려받을 수 없다.  
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+하나, 매년 11월 둘째 주 토요일에 모임을 가진다.  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+하나, 우리 사단의 주목적은 유대의 존속이다.  
 
-#### Header 4
+하나, 기대소득의 상당한 상승을 동반하는 신분상의 변화를 겪은 자는 2차를 쏜다.  
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+하나, 게스트가 될 수 있는 자는 정회원이 아닌 비반 11학번으로 한정한다.  
 
-##### Header 5
+하나, 정회원은 한 명의 게스트를 동반하여 모임에 참여할 수 있다.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+하나, 게스트는 참여한 모임의 1차가 종료될 시점에 가입 여부를 결정한다.  
 
-###### Header 6
+하나, 모임의 회장과 총무는 연 회비를 1만원씩 삭감한다.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+하나, 회원 3인 이상이 모일 시에는 인당 1만원씩 회비를 지원한다.  
